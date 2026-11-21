@@ -1,0 +1,10 @@
+# Binaries
+/whois
+*.exe
+
+# Build output
+/dist/
+
+# Test artifacts
+*.test
+*.out
